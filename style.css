@@ -38,7 +38,7 @@ main #input-box {
     border-radius: 10px;
     padding: 0 10px;
     font-size: 3rem;
-    
+    direction: rtl;
     outline: none;
     overflow: hidden;
 }
