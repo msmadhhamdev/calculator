@@ -28,7 +28,7 @@ main {
   padding: 10px;
   border: 1px solid;
   border-radius: 10px;
-  background: url(../portfolio/images/Design-Wallpaper-HD.jpg);
+  background: url(background.jpg);
   background-size: cover;
   box-shadow: 1px 6px 16px 6px rgba(0, 0, 0, 0.3);
 }
